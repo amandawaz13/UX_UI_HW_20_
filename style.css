@@ -1,0 +1,104 @@
+body {
+    background-color: #EBE4D9;
+    margin: 30px;
+}
+
+
+.nav-item {
+    font-family: gilgan;
+    color: black;
+    margin: 50px;
+    border-bottom-style: solid;
+    border-color: #D62E2B;
+
+}
+
+.mainWrapper {
+    padding: 50px;
+}
+
+.logo {
+    text-align: center;
+    width: 23%;
+    padding: 1%;
+}
+
+h1 {
+    font-family: Dream Cottage;
+    color: #D62E2B;
+    text-align: center;
+    font-size: 75px;
+}
+
+.btn {
+    background-color: rgba(214, 46, 43, .85);
+    color: black;
+    display: flex;
+    justify-content: flex-start;
+}
+
+.dropdown-menu {
+    background-color: rgba(214, 46, 43, .53);
+    font-family: gilgan;
+}
+
+h2 {
+    font-family: Dream Cottage;
+    color: #D62E2B;
+    text-align: center;
+    font-size: 45px;
+    display: flex;
+    justify-content: left;
+    padding: 30px;
+}
+
+.intro {
+    font-family: gilgan;
+    color: black;
+    font-size: 15px;
+    list-style-type: none;
+}
+
+.col {
+    font-family: gilgan;
+    color: black;
+    font-size: 15px;
+    margin: 50px;
+}
+
+.container {
+    display: flex;
+    justify-self: center;
+}
+
+.body {
+    padding: 70px;
+}
+
+.finalButton{
+    display: flex;
+    align-items: center;
+}
+
+footer{
+    border-style: solid;
+    border-color: #D62E2B;
+    margin: 30px;
+    padding: 30px;
+ }
+ 
+ 
+ .footer{
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    font-family: Dream Cottage;
+    color: #D62E2B;
+    text-align: center;
+    font-size: 45px;
+    h3{font-family: gilgan;
+    color: black;
+    font-size: 32px;}
+ }  
+ 
